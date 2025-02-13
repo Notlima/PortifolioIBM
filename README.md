@@ -9,6 +9,7 @@ A professional portfolio showcasing my skills, projects, and experience, built a
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Live Demo](#live-demo)
 
 ## About the Project
 This portfolio was created to showcase my skills and projects as part of the IBM training program. It serves as a professional representation of my work and experience.
@@ -35,3 +36,6 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Live Demo
+Check out the live demo [here](https://notlima.github.io/PortifolioIBM/).
